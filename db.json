@@ -1,0 +1,202 @@
+{
+    "ordersTaiwan": {
+        "orders": [
+            {
+                "order_id": 12,
+                "orderNumber": "379923-2022340709-53292843",
+                "orderDatetime": "2021-07-09T12:10:30+0900",
+                "orderDetail": {
+                    "invoice_number": "QV20785796",
+                    "point_used": 450,
+                    "total_before_discount": 1880,
+                    "orderTotal": 0,
+                    "shipment_fee": 80,
+                    "total_discount": 0
+                }
+            },
+            {
+                "order_id": 24,
+                "orderNumber": "379923-2022340709-50043672",
+                "orderDatetime": "2021-09-10T01:10:30+0900",
+                "orderDetail": {
+                    "invoice_number": "QV20688796",
+                    "point_used": 0,
+                    "total_before_discount": 0,
+                    "orderTotal": 2410,
+                    "shipment_fee": 80,
+                    "total_discount": 0
+                }
+            }
+        ],
+        "PaginationResponseModel": {
+            "responseRecordsAmount": 2,
+            "responsePage": 1,
+            "recordPerPage": 50,
+            "totalPages": 1
+        }
+    },
+    "orderDetail": [
+        {
+            "order_id": 12,
+            "unitDemand": 4,
+            "orderNumber": "379923-2022340709-53292843",
+            "orderDatetime": "2021-09-10T01:10:30+0900",
+            "orderDetail": {
+                "invoice_number": "QV20688796",
+                "point_used": 0,
+                "total_before_discount": 0,
+                "orderTotal": 2410,
+                "shipment_fee": 80,
+                "total_discount": 0
+            },
+            "orderItems": [
+                {
+                    "mappingUnit": {
+                        "sku_jp": "sku-jp-ate56",
+                        "sku_tw": "sku-tw-ate56",
+                        "mappingUnit_jp": 4.0,
+                        "mappingUnit_tw": 1.0,
+                        "singleDemand ": 20,
+                        "purchaseStatus": {
+                            "name": "其他",
+                            "value": 99,
+                            "description": "status description"
+                        },
+                        "jpShopItem": {
+                            "shopid": 29,
+                            "itemName": "【台湾直送】CabinZero キャビンゼロ",
+                            "base_sku": "",
+                            "sku_jp": "sku-jp-ate56",
+                            "unitPrice": 3000,
+                            "deliverFrom": 2,
+                            "baseRate": 1.5,
+                            "exchangeRate": 3.8,
+                            "itemid": 57,
+                            "created_datetime": "2021-07-16T06:01:42.281376",
+                            "updated_datetime": "2021-07-16T06:01:42.281500"
+                        },
+                        "twShopItem": {
+                            "shopid": 29,
+                            "itemName": "【NICE】Cabeau 酷涼記憶棉頸枕2.0 - 霧黑 ",
+                            "base_sku": "",
+                            "sku_tw": "sku-tw-ate56",
+                            "unitPrice": 7000,
+                            "barCode": "3245233632",
+                            "itemid": 64,
+                            "created_datetime": "2021-07-16T06:01:41.542555",
+                            "updated_datetime": "2021-07-16T06:01:41.542747"
+                        },
+                        "created_datetime": "2021-07-16T06:01:42.288087",
+                        "updated_datetime": "2021-07-16T06:01:42.288216"
+                    },
+                    "shop": {
+                        "name": "台灣一杯青",
+                        "name_zh": null,
+                        "shop_url_tw": "",
+                        "shop_url_jp": "",
+                        "shopid": 29
+                    }
+                }
+            ]
+        },
+        {
+            "order_id": 24,
+            "unitDemand": 4,
+            "orderNumber": "379923-2022340709-50043672",
+            "orderDatetime": "2021-09-10T01:10:30+0900",
+            "orderDetail": {
+                "invoice_number": "QV20688796",
+                "point_used": 0,
+                "total_before_discount": 0,
+                "orderTotal": 2410,
+                "shipment_fee": 80,
+                "total_discount": 0
+            },
+            "orderItems": [
+                {
+                    "mappingUnit": {
+                        "sku_jp": "sku-jp-ate56",
+                        "sku_tw": "sku-tw-ate56",
+                        "mappingUnit_jp": 4.0,
+                        "mappingUnit_tw": 1.0,
+                        "singleDemand ": 20,
+                        "purchaseStatus": {
+                            "name": "其他",
+                            "value": 99,
+                            "description": "status description"
+                        },
+                        "jpShopItem": {
+                            "shopid": 29,
+                            "itemName": "【台湾直送】CabinZero キャビンゼロ",
+                            "base_sku": "",
+                            "sku_jp": "sku-jp-ate56",
+                            "unitPrice": 3000,
+                            "deliverFrom": 2,
+                            "baseRate": 1.5,
+                            "exchangeRate": 3.8,
+                            "itemid": 57,
+                            "created_datetime": "2021-07-16T06:01:42.281376",
+                            "updated_datetime": "2021-07-16T06:01:42.281500"
+                        },
+                        "twShopItem": {
+                            "shopid": 29,
+                            "itemName": "【NICE】Cabeau 酷涼記憶棉頸枕2.0 - 霧黑 ",
+                            "base_sku": "",
+                            "sku_tw": "sku-tw-ate56",
+                            "unitPrice": 7000,
+                            "barCode": "3245233632",
+                            "itemid": 64,
+                            "created_datetime": "2021-07-16T06:01:41.542555",
+                            "updated_datetime": "2021-07-16T06:01:41.542747"
+                        },
+                        "created_datetime": "2021-07-16T06:01:42.288087",
+                        "updated_datetime": "2021-07-16T06:01:42.288216"
+                    },
+                    "shop": {
+                        "name": "台灣一杯青",
+                        "name_zh": null,
+                        "shop_url_tw": "",
+                        "shop_url_jp": "",
+                        "shopid": 29
+                    }
+                }
+            ]
+        }
+    ],
+    "recordList": [
+        {
+            "record_id": 10,
+            "orderNumber": "0056663-210701-0201019820",
+            "orderDatetime": "2021-07-27T09:09:26+0900",
+            "orderedQuantity": 10,
+            "relatedOrderNumber": "",
+            "changeReason": {
+                "type": "操作錯誤",
+                "value": 9,
+                "description": ""
+            },
+            "changedQuantity": 10,
+            "requestPayment": {
+                "type": "",
+                "value": 0
+            }
+        },
+        {
+            "id": 20,
+            "orderNumber": "0056770-210712-0245284136",
+            "orderDatetime": "2020-08-08T09:09:26+0900",
+            "orderedQuantity": 10,
+            "relatedOrderNumber": "0057042-210726-0214475376",
+            "changeReason": {
+                "type": "其他",
+                "value": 99,
+                "description": "已訂購但客人取消"
+            },
+            "changedQuantity": 10,
+            "requestPayment": {
+                "type": "入倉不請款",
+                "value": 3
+            }
+        }
+    ]
+}
