@@ -2,6 +2,7 @@
     "ordersTaiwan": {
         "orders": [
             {
+                "id": 12,
                 "order_id": 12,
                 "orderNumber": "379923-2022340709-53292843",
                 "orderDatetime": "2021-07-09T12:10:30+0900",
@@ -15,6 +16,7 @@
                 }
             },
             {
+                "id": 24,
                 "order_id": 24,
                 "orderNumber": "379923-2022340709-50043672",
                 "orderDatetime": "2021-09-10T01:10:30+0900",
@@ -35,8 +37,9 @@
             "totalPages": 1
         }
     },
-    "orderDetail": [
+    "orderTaiwanDetail": [
         {
+            "id": 12,
             "order_id": 12,
             "unitDemand": 4,
             "orderNumber": "379923-2022340709-53292843",
@@ -100,6 +103,7 @@
             ]
         },
         {
+            "id": 24,
             "order_id": 24,
             "unitDemand": 4,
             "orderNumber": "379923-2022340709-50043672",
