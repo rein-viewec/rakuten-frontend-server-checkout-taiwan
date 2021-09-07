@@ -59,7 +59,7 @@
                         "sku_tw": "sku-tw-ate56",
                         "mappingUnit_jp": 4.0,
                         "mappingUnit_tw": 1.0,
-                        "singleDemand ": 20,
+                        "singleDemand": 20,
                         "purchaseStatus": {
                             "name": "其他",
                             "value": 99,
@@ -123,7 +123,7 @@
                         "sku_tw": "sku-tw-ate56",
                         "mappingUnit_jp": 4.0,
                         "mappingUnit_tw": 1.0,
-                        "singleDemand ": 20,
+                        "singleDemand": 20,
                         "purchaseStatus": {
                             "name": "其他",
                             "value": 99,
