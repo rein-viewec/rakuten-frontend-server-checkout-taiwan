@@ -6,7 +6,7 @@
                 "order_id": 55,
                 "orderDetail": {
                     "orderNumber": "379923-2022340709-53292843",
-                    "orderDatetime": "2021-07-09T12:10:30+0900",
+                    "orderDatetime": "2021-12-31T12:10:30+0900",
                     "invoice_number": "QV20785796",
                     "point_used": 450,
                     "total_before_discount": 1880,
@@ -20,7 +20,7 @@
                 "order_id": 55,
                 "orderDetail": {
                     "orderNumber": "379923-2022340709-53292563",
-                    "orderDatetime": "2021-07-09T12:10:30+0900",
+                    "orderDatetime": "2021-11-09T12:10:30+0900",
                     "invoice_number": "QV20785796",
                     "point_used": 450,
                     "total_before_discount": 1880,
@@ -34,7 +34,7 @@
                 "order_id": 55,
                 "orderDetail": {
                     "orderNumber": "379923-2022340709-532345123",
-                    "orderDatetime": "2021-07-09T12:10:30+0900",
+                    "orderDatetime": "2021-08-11T12:10:30+0900",
                     "invoice_number": "QV20785796",
                     "point_used": 450,
                     "total_before_discount": 1880,
@@ -47,8 +47,8 @@
                 "id": 48,
                 "order_id": 55,
                 "orderDetail": {
-                    "orderNumber": "379923-2022340709-532345123",
-                    "orderDatetime": "2021-07-09T12:10:30+0900",
+                    "orderNumber": "379923-2022340709-535215799",
+                    "orderDatetime": "2021-04-25T12:10:30+0900",
                     "invoice_number": "QV20785796",
                     "point_used": 450,
                     "total_before_discount": 1880,
