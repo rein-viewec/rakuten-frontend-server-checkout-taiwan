@@ -8,10 +8,10 @@
                     "orderNumber": "379923-2022340709-53292843",
                     "orderDatetime": "2021-12-31T12:10:30+0900",
                     "invoice_number": "QV20785796",
-                    "point_used": 450,
-                    "total_before_discount": 1880,
-                    "orderTotal": 0,
-                    "shipment_fee": 80,
+                    "point_used": 0,
+                    "total_before_discount": 1840,
+                    "orderTotal": 1840,
+                    "shipment_fee": 0,
                     "total_discount": 0
                 }
             },
@@ -22,7 +22,7 @@
                     "orderNumber": "379923-2022340709-53292563",
                     "orderDatetime": "2021-11-09T12:10:30+0900",
                     "invoice_number": "QV20785796",
-                    "point_used": 450,
+                    "point_used": 1960,
                     "total_before_discount": 1880,
                     "orderTotal": 0,
                     "shipment_fee": 80,
@@ -36,10 +36,10 @@
                     "orderNumber": "379923-2022340709-532345123",
                     "orderDatetime": "2021-08-11T12:10:30+0900",
                     "invoice_number": "QV20785796",
-                    "point_used": 450,
-                    "total_before_discount": 1880,
-                    "orderTotal": 0,
-                    "shipment_fee": 80,
+                    "point_used": 0,
+                    "total_before_discount": 1120,
+                    "orderTotal": 1120,
+                    "shipment_fee": 0,
                     "total_discount": 0
                 }
             },
@@ -50,10 +50,10 @@
                     "orderNumber": "379923-2022340709-535215799",
                     "orderDatetime": "2021-04-25T12:10:30+0900",
                     "invoice_number": "QV20785796",
-                    "point_used": 450,
-                    "total_before_discount": 1880,
-                    "orderTotal": 0,
-                    "shipment_fee": 80,
+                    "point_used": 0,
+                    "total_before_discount": 4530,
+                    "orderTotal": 4530,
+                    "shipment_fee": 0,
                     "total_discount": 0
                 }
             }
